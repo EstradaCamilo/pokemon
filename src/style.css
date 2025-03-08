@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yellow: #eca539;
+  --color-red: #f22539;
+  --color-red-accent: #c00e20;
+  --color-gray: #f9f9f9;
+  --color-gray-accent-1: #f5f5f5;
+  --color-gray-accent-2: #bfbfbf;
+  --color-gray-accent-3: #5e5e5e;
+  --color-gray-accent-4: #353535;
+}
+
+h1{
+  @apply text-3xl text-gray-accent-4 font-semibold;
+}
+p{
+  @apply text-gray-accent-3;
+}
