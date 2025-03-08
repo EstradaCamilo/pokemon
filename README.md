@@ -1,6 +1,7 @@
 # Pokédex
 
 Este proyecto es una aplicación que permite consultar pokémones y agregarlos a una lista de favoritos.
+Se ha utilizado Vite, Vue, TypeScript, Pinia y Tailwind CSS. Se eligió Vite por la simplicidad de la aplicación; en caso de ser más robusta, la opción a utilizar sería Nuxt. Sin embargo, considero que Vite y Vue Router fueron suficientes para manejar las dos vistas y sus funcionalidades.
 
 ## Variables de entorno
 
